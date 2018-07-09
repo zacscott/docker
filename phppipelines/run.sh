@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -t -i zacscott/djangopipelines /bin/bash
+docker run -t -i zacscott/phppipelines /bin/bash
